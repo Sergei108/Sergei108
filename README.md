@@ -59,8 +59,10 @@
 
 ## Статистика GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sergei108&color=blue) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergei108&show_icons=true&theme=tokyonight) 
+![Profile Views](https://komarev.com/ghpvc/?username=Sergei108&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergei108&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergei108&layout=compact&theme=tokyonight) 
 
 ---
